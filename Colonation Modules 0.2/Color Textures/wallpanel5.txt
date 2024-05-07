@@ -1,0 +1,41 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "wallpanel5.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": "Aspect",
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": "Aspect",
+      "size": 0.5
+    },
+    "center": {
+      "mode": "Stretch",
+      "sizeMode": "Aspect",
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": true
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": false,
+    "flipToLight_Y": false,
+    "metalTexture": false,
+    "icon": null
+  },
+  "tags": [
+    "cone"
+  ],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Wallpanel5",
+  "hideFlags": "None"
+}
