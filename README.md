@@ -1,0 +1,1 @@
+This adds new textures to the game. A door airlock. 3 windowed scene modules featuring a greenhouse science lab and a gym. A glass dome. A electronics Generator. A Space living quarters.  They work best on eight wide or bigger parts and will have to be rotated into landscape
